@@ -1,7 +1,11 @@
 Module: CST3144
+
 Name: Sahil Solanki
+
 MISIS: M01033638
+
 Instructor: Dr. Chinnu Mary George
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Link to the GitHub Repository - Frontend:     https://github.com/sahilsolanki11/Frontend-main.git                                                  
 Link to the GitHub Repository - Backend:      https://github.com/sahilsolanki11/Final-project-.git                                              
